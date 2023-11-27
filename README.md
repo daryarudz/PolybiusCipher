@@ -7,4 +7,4 @@
 |**4**|с|т|у|ф|х|ц|
 |**5**|ч|ш|щ|ъ|ы|ь|
 |**6**|э|ю|я|,|.|/|
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=FFFF00"/>
+
